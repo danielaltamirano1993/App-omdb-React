@@ -20,12 +20,12 @@ As a requeriment for this example, you need to get your API Key in this website 
 
 ## omdb-app-react
 
-# Requeriments
+# Requisitos
 
 Como requisito para este ejemplo, debe obtener su clave de API en este sitio web utilizando su correo electrónico
 
 * [OMDB API KEY](http://www.omdbapi.com/)
 
-# Screenshot
+# Captura de pantalla
 
 ![](./screenshot.png)
